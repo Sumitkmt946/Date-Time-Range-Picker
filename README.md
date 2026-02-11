@@ -191,6 +191,23 @@ Testing infrastructure ready with:
 - Playwright
 - axe-core for accessibility
 
+## 🚀 Deployment
+
+### Deploying to Vercel (Recommended)
+
+To deploy the **Storybook** (which showcases all components and documentation):
+
+1. Push your code to GitHub.
+2. Go to [Vercel](https://vercel.com) and "Add New Project".
+3. Import the repository.
+4. **Configure Project Settings:**
+   - **Framework Preset:** `Vite` (or `Other`)
+   - **Build Command:** `npm run build-storybook`
+   - **Output Directory:** `storybook-static`
+5. Click **Deploy**.
+
+This will give you a live URL for your Storybook documentation.
+
 ## 📦 Tech Stack
 
 - **React** 19.2.0
