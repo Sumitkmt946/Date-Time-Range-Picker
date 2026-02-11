@@ -2,7 +2,7 @@
 
 A fully custom, timezone-aware Date & Time Range Picker built from scratch with React 18+, TypeScript (strict mode), and Tailwind CSS.
 
-**Zero external UI libraries or date picker dependencies.**
+**Zero external UI libraries or date picker dependencies.** https://date-time-range-picker-nu.vercel.app/
 
 ## ✨ Features
 
