@@ -1,7 +1,4 @@
-/**
- * Custom hook for keyboard navigation in the calendar
- * Handles arrow keys, Enter, Space, Tab, Esc, Home, End, PageUp, PageDown
- */
+
 
 import { useState, useCallback } from 'react';
 import { addDays, addMonths } from '../utils/dateUtils';
